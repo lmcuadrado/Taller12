@@ -45,9 +45,11 @@ int funcion(int rho_max)
 			x[i]=0;
 		}
 
-		
+		return x[i];
 	}
-	return x;
+	
 }
 
 
+/*-------Punto 2--------
+Juan pablo montoya nacio en Bogota, Colombia, el 20 de Septiembre de 1975. Participo en la formula 1 entre el año 2001 y 2006*/
